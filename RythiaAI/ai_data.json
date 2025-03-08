@@ -1,0 +1,31 @@
+{
+    "hello": [
+        "Hi there",
+        "Hello!",
+        "Greetings!"
+    ],
+    "how are you": [
+        "I'm doing well",
+        "I'm fine, how about you?"
+    ],
+    "what is your name": [
+        "My name is RithyaAI a text base ai assistant created by K12V",
+        "You can call me Riythya"
+    ],
+    "bye": [
+        "Goodbye!",
+        "See you later!",
+        "Farewell."
+    ],
+    "default": [
+        "I'm not sure i understand.",
+        "Could you rephrase that?",
+        "Tell me more."
+    ],
+    "one": [
+        "two"
+    ],
+    "i'm fine too": [
+        "i see, what can i do to you?"
+    ]
+}
